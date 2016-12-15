@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "appr",
+    "email": "appr@appr.me",
+    "url": "http://appr.me"
+  },
+  "name": "iniconfig",
+  "description": "Simple iniparser-based iniconfig parser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/orenlinux/node-iniconfig",
+  "repository": {
+    "url": "git://github.com/orenlinux/node-iniconfig.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "iniparser": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/orenlinux/node-iniconfig/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "iniconfig@0.0.1",
+  "dist": {
+    "shasum": "efca8c2d58ce8babf3c1db3938563fb9853a2250"
+  },
+  "_resolved": "git://github.com/undassa/node-iniconfig.git#3b96dd91a30ccff0a4b1649af1fbea8cded6afe7",
+  "_from": "iniconfig@git://github.com/undassa/node-iniconfig.git#0.8.x"
+}
